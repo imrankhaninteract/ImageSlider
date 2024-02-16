@@ -23,6 +23,9 @@ main {
     overflow: hidden;
     border-radius: 2px;
 }
+img{
+    border-radius: 5px;
+}
 
 .slide {
     width: 100%;
