@@ -25,6 +25,7 @@ main {
 }
 img{
     border-radius: 5px;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 255, 0.313); 
 }
 
 .slide {
